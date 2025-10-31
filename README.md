@@ -8,5 +8,7 @@ The project was inspired by [stihi.ru](https://stihi.ru/) — a well-known Russi
 
 Stihi.es is my personal interpretation of that idea — a more intimate, refined space dedicated to the poets I love.
 
+*The website and all poems are presented in Russian.*
+
 ---
 The project is still under development, with new poets and pages being added over time. You can explore the website through the link in the About section.
