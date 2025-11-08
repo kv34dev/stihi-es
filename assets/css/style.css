@@ -131,3 +131,8 @@ small {
               inset 0 -2px 3px rgba(0,0,0,0.3),
               0 1px 3px rgba(0,0,0,0.2);
 }
+
+.back {
+  margin-bottom: 0px;
+  font-size: 15px;
+}
