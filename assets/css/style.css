@@ -134,5 +134,5 @@ small {
 
 .back {
   margin-bottom: 0px;
-  font-size: 15px;
+  font-size: clamp(10px, 2vw, 14px);
 }
